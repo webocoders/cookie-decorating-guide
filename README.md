@@ -2,9 +2,7 @@
 
 Royal icing can feel confusing at first, especially when it comes to consistency, drying time, and how to use it correctly for decorating cookies.
 
-This beginner-friendly guide explains the fundamentals in a clear and simple way.
-
-👉 [Royal icing basics guide](https://cookieicinglab.com/guides/royal-icing-basics)
+This beginner-friendly guide explains the fundamentals in a clear and simple way. If you want a deeper breakdown, see this [royal icing basics for cookie decorating](https://cookieicinglab.com/guides/royal-icing-basics).
 
 ## What you'll learn
 
@@ -20,6 +18,4 @@ If you're just starting with cookie decorating, this is a good place to understa
 
 ## Next step
 
-For a full step-by-step cookie decorating process, including outlining and flooding:
-
-👉 [Step-by-step cookie decorating guide](https://cookieicinglab.com/guides/how-to-decorate-cookies)
+For a full step-by-step cookie decorating process, including outlining and flooding, follow this [step-by-step cookie decorating guide](https://cookieicinglab.com/guides/how-to-decorate-cookies).
